@@ -1,0 +1,42 @@
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi)\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.Form1.resources
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi)\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.Properties.Resources.resources
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi)\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.Reglements.resources
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi)\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.StartForm.resources
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi)\Yum (Mohamed Cherifi)\obj\Debug\Yum (Mohamed Cherifi).csproj.GenerateResource.Cache
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi)\Yum (Mohamed Cherifi)\bin\Debug\Yum (Mohamed Cherifi).exe.config
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi)\Yum (Mohamed Cherifi)\bin\Debug\Yum (Mohamed Cherifi).exe
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi)\Yum (Mohamed Cherifi)\bin\Debug\Yum (Mohamed Cherifi).pdb
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi)\Yum (Mohamed Cherifi)\obj\Debug\Yum (Mohamed Cherifi).exe
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi)\Yum (Mohamed Cherifi)\obj\Debug\Yum (Mohamed Cherifi).pdb
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi)\Yum (Mohamed Cherifi)\obj\Debug\Yum (Mohamed Cherifi).csprojResolveAssemblyReference.cache
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\bin\Debug\Yum (Mohamed Cherifi).exe.config
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\obj\Debug\Yum (Mohamed Cherifi).exe
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\obj\Debug\Yum (Mohamed Cherifi).pdb
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\bin\Debug\Yum (Mohamed Cherifi).exe
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\bin\Debug\Yum (Mohamed Cherifi).pdb
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.Form1.resources
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.Properties.Resources.resources
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.Reglements.resources
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.StartForm.resources
+L:\420-1P6-GG\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\obj\Debug\Yum (Mohamed Cherifi).csproj.GenerateResource.Cache
+E:\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\bin\Debug\Yum (Mohamed Cherifi).exe.config
+E:\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\obj\Debug\Yum (Mohamed Cherifi).exe
+E:\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\obj\Debug\Yum (Mohamed Cherifi).pdb
+E:\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\bin\Debug\Yum (Mohamed Cherifi).exe
+E:\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\bin\Debug\Yum (Mohamed Cherifi).pdb
+E:\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.Form1.resources
+E:\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.Properties.Resources.resources
+E:\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.Reglements.resources
+E:\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.StartForm.resources
+E:\Projet 3\Yum (Mohamed Cherifi) - Copie (2)\Yum (Mohamed Cherifi)\obj\Debug\Yum (Mohamed Cherifi).csproj.GenerateResource.Cache
+C:\Users\Mohamed\Desktop\Yum (Mohamed Cherifi) - R\Yum (Mohamed Cherifi)\bin\Debug\Yum (Mohamed Cherifi).exe.config
+C:\Users\Mohamed\Desktop\Yum (Mohamed Cherifi) - R\Yum (Mohamed Cherifi)\obj\Debug\Yum (Mohamed Cherifi).exe
+C:\Users\Mohamed\Desktop\Yum (Mohamed Cherifi) - R\Yum (Mohamed Cherifi)\obj\Debug\Yum (Mohamed Cherifi).pdb
+C:\Users\Mohamed\Desktop\Yum (Mohamed Cherifi) - R\Yum (Mohamed Cherifi)\bin\Debug\Yum (Mohamed Cherifi).exe
+C:\Users\Mohamed\Desktop\Yum (Mohamed Cherifi) - R\Yum (Mohamed Cherifi)\bin\Debug\Yum (Mohamed Cherifi).pdb
+C:\Users\Mohamed\Desktop\Yum (Mohamed Cherifi) - R\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.Form1.resources
+C:\Users\Mohamed\Desktop\Yum (Mohamed Cherifi) - R\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.Properties.Resources.resources
+C:\Users\Mohamed\Desktop\Yum (Mohamed Cherifi) - R\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.Reglements.resources
+C:\Users\Mohamed\Desktop\Yum (Mohamed Cherifi) - R\Yum (Mohamed Cherifi)\obj\Debug\Yum__Mohamed_Cherifi_.StartForm.resources
+C:\Users\Mohamed\Desktop\Yum (Mohamed Cherifi) - R\Yum (Mohamed Cherifi)\obj\Debug\Yum (Mohamed Cherifi).csproj.GenerateResource.Cache
+C:\Users\Mohamed\Desktop\Yum (Mohamed Cherifi) - R\Yum (Mohamed Cherifi)\obj\Debug\Yum (Mohamed Cherifi).csprojResolveAssemblyReference.cache
